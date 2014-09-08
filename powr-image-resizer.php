@@ -6,7 +6,7 @@
     /*
     Plugin Name: POWr Image Resizer
     Plugin URI: http://www.powr.io
-    Description: Adjust image sizes, shapes, and much more Add the widget to your theme, or create an Image Resizer on ANY page or post by using the shortcode [powr-image-resizer]. Then, simply visit your site and click the settings icon to customize your Image Resizer right in the page. Many more plugins & tutorials at POWr.io.
+    Description: Adjust image size, shape, and more! Add the widget to your theme, or create an Image Resizer on ANY page or post by using the shortcode [powr-image-resizer]. Then, simply visit your site and click the settings icon to customize your Image Resizer right in the page. Many more plugins & tutorials at POWr.io.
     Author: POWr.io
     Version: 1.0
     Author URI: http://www.powr.io
