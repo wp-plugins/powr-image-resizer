@@ -22,7 +22,6 @@ First, download, install, and activate POWr Image Resizer. Then drop the widget 
 <br>
 = <a href='http://www.powr.io/tutorials/how-to-add-image-resizer-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
-
 = Free Features =
 * Change the size, shape, and appearance of your images with no additional software!
 * Equipped with easy to use image filters like grayscale, sepia, contrast, and more.
@@ -33,9 +32,10 @@ First, download, install, and activate POWr Image Resizer. Then drop the widget 
 <br>
 = Upgrade ($2.99)/mo and: =
 * Eliminate all POWr logos and watermarks
-
+* Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
+
 
 == Installation ==
 Download, install, and activate POWr Image Resizer.
