@@ -37,6 +37,7 @@ First, download, install, and activate POWr Image Resizer. Then drop the widget 
 * Support the development of other great plugins
 
 
+
 == Installation ==
 Download, install, and activate POWr Image Resizer.
 <br>
