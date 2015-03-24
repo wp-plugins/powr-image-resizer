@@ -5,7 +5,7 @@ Donate link: http://powr.io/
 Tags: resize image online, photo resize, image resize, photo editor, image editor, photo filter, image filter, photo watermark, image watermark, image animation, photo animation, image caption, photo caption, photo editor plugin, image editor plugin, photo editor widget, image editor widget, watermark, animation, caption, grayscale, sepia, saturation, hue, invert, opacity, brightness, contrast, blur, graphic artist, design tools, photography, art gallery, photoshop, CSS filters, photo upload, responsive design, easy, personalize, ecommerce, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: 1.1
+Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -92,6 +92,8 @@ Improved loading speed
 = 1.3 =
 Easily add POWr plugins right from the text editor.
 
+= 1.4 =
+Improved functionality within the wp text editor.
 
 
 == Changelog ==
@@ -106,5 +108,8 @@ Easily add POWr plugins right from the text editor.
 
 = 1.3 =
 Easily add POWr plugins right from the text editor.
+
+= 1.4 =
+Improved functionality within the wp text editor.
 
 
