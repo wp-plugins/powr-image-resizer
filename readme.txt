@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Adjust the size, shape, and filters for any image!
 
 == Description ==
-Adjust the size, shape, and filters for any image!
+ Adjust the size, shape, and filters for any image!
 <br>
 <br>
 POWr Image Resizer is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
