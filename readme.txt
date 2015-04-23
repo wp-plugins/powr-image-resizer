@@ -4,7 +4,7 @@ Contributors: powr
 Donate link: http://powr.io/
 Tags: resize image online, photo resize, image resize, photo editor, image editor, photo filter, image filter, photo watermark, image watermark, image animation, photo animation, image caption, photo caption, photo editor plugin, image editor plugin, photo editor widget, image editor widget, watermark, animation, caption, grayscale, sepia, saturation, hue, invert, opacity, brightness, contrast, blur, graphic artist, design tools, photography, art gallery, photoshop, CSS filters, photo upload, responsive design, easy, personalize, ecommerce, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -30,6 +30,7 @@ First, download, install, and activate POWr Image Resizer. Then drop the widget 
 * Built-in support for text in any language.
 * Mobile responsive design looks great on any device.
 <br>
+
 = Upgrade ($2.99)/mo and: =
 * Eliminate all POWr logos and watermarks
 * Enable plugin analytics to measure visitors and page views
